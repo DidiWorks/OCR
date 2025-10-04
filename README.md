@@ -1,4 +1,4 @@
-<img width="301" height="251" alt="image" src="https://github.com/user-attachments/assets/5e839261-e265-4bea-93ac-0d1cee6921bd" />OCR文字识别（离线版） OCR Text Recognition (Offline)
+
 
 
 主要库：
