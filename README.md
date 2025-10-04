@@ -1,4 +1,4 @@
-OCR文字识别（离线版） OCR Text Recognition (Offline)
+<img width="301" height="251" alt="image" src="https://github.com/user-attachments/assets/5e839261-e265-4bea-93ac-0d1cee6921bd" />OCR文字识别（离线版） OCR Text Recognition (Offline)
 
 
 主要库：
@@ -19,4 +19,6 @@ numpy==1.23.5 - 数值计算
 
 这个工具不完善，本来是想做成OCR引擎（可选择）-格式（可选择）-方式。可以自由搭配的形式，现在只是做好了一个格式。
 
+<img width="301" height="251" alt="image" src="https://github.com/user-attachments/assets/f7baf98d-c183-4d7d-abb8-ed19d794b5bb" />
 
+<img width="999" height="731" alt="image" src="https://github.com/user-attachments/assets/c3259f59-eb5c-4a2b-bbc6-3a9da16c1874" />
